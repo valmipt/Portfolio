@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![HR Analytics Dashboard Screenshot](https://public.tableau.com/views/HRAnalyticsDashboard_16983824013400/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[HR Analytics Dashboard Screenshot](https://public.tableau.com/views/HRAnalyticsDashboard_16983824013400/HRAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Description
 

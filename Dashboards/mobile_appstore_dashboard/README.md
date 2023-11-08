@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-![Mobile AppStore Dashboard](https://public.tableau.com/views/MobileAppStoreDashboard/MobileAppStoreDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Mobile AppStore Dashboard](https://public.tableau.com/views/MobileAppStoreDashboard/MobileAppStoreDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Description
 

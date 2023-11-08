@@ -1,6 +1,6 @@
 # Rail Lines Dashboard
 
-![Rail Lines Dashboard](https://public.tableau.com/views/RailLines_16872220420550/RailLinesDashboad?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Rail Lines Dashboard](https://public.tableau.com/views/RailLines_16872220420550/RailLinesDashboad?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Description
 
