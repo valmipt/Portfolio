@@ -51,10 +51,10 @@ Here are some of the projects I've completed to showcase my data analysis skills
 
 ## Scripts
 
-- [Web Scrapping]("Scripts/Web%20Scrapping")
+- [Web Scrapping](Scripts/"Web%20Scrapping")
   - Python scripts for scrapping data from different mobile app stores.
 
-- [SQL Queries]("Scripts/SQL%20Queries")
+- [SQL Queries](Scripts/"SQL%20Queries")
   - SQL queries to calculate various metrics.
 
 ## Tools and Technologies
