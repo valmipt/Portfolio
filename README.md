@@ -43,7 +43,7 @@ Here are some of the projects I've completed to showcase my data analysis skills
 - [Exploratory Data Analysis Notebook](Notebooks/EDA/eda.ipynb)
   - An Jupyter notebook performing data exploration and visualization.
 
-- [Statistical Analysis Notebook](Notebooks/sa.ipynb)
+- [Statistical Analysis Notebook](Notebooks/SA/sa.ipynb)
   - A notebook containing code for statistical analysis.
 
 - [Machine Learning Notebook](Notebooks/ML/ML.ipynb)
@@ -51,10 +51,10 @@ Here are some of the projects I've completed to showcase my data analysis skills
 
 ## Scripts
 
-- [Web Scrapping](Scripts/Web Scrapping)
+- [Web Scrapping]("Scripts/Web Scrapping")
   - Python scripts for scrapping data from different mobile app stores.
 
-- [SQL Queries](Scripts/SQL Queries)
+- [SQL Queries]("Scripts/SQL Queries")
   - SQL queries to calculate various metrics.
 
 ## Tools and Technologies
