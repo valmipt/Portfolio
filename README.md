@@ -4,7 +4,7 @@ Welcome to my Data Analyst portfolio! This repository showcases a collection of 
 
 ## Table of Contents
 
-<-- - [Projects](#projects) -->
+<!-- - [Projects](#projects) -->
 - [Dashboards](#dashboards)
 - [Notebooks](#notebooks)
 - [Scripts](#scripts)
