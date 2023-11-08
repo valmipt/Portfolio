@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst portfolio! This repository showcases a collection of dashboards, notebooks, and scripts that demonstrate my skills and experience in the field of data analysis. Feel free to explore the contents and get a sense of the projects I've worked on.
+Welcome to my portfolio! This repository showcases a collection of dashboards, notebooks, and scripts that demonstrate my skills and experience in the field of data analysis. Feel free to explore the contents and get a sense of the projects I've worked on.
 
 ## Table of Contents
 
