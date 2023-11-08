@@ -40,21 +40,21 @@ Here are some of the projects I've completed to showcase my data analysis skills
 
 ## Notebooks
 
-- [Exploratory Data Analysis Notebook](Notebooks/eda.ipynb)
+- [Exploratory Data Analysis Notebook](Notebooks/EDA/eda.ipynb)
   - An Jupyter notebook performing data exploration and visualization.
 
-- [Customer Segmentation Notebook](Notebooks/customer_segmentation.ipynb)
-  - A notebook containing code for customer segmentation using machine learning.
+- [Statistical Analysis Notebook](Notebooks/sa.ipynb)
+  - A notebook containing code for statistical analysis.
 
-- [Market Basket Analysis Notebook](Notebooks/market_basket_analysis.ipynb)
-  - A notebook with code for market basket analysis and recommendation system.
+- [Machine Learning Notebook](Notebooks/ML/ML.ipynb)
+  - A notebook with code for machine learning.
 
 ## Scripts
 
-- [Web Scrapping](Scripts/Web Scrapping/README.md)
+- [Web Scrapping](Scripts/Web Scrapping)
   - Python scripts for scrapping data from different mobile app stores.
 
-- [SQL Queries](Scripts/SQL Queries/README.md)
+- [SQL Queries](Scripts/SQL Queries)
   - SQL queries to calculate various metrics.
 
 ## Tools and Technologies
